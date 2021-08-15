@@ -1,7 +1,8 @@
 ## TV Simulator '99
 
-(AKA Program Guide)
+(now with less analytics)
 
 Zach Hall, 2017
+Vibby, 2021
 
-[Live Site](http://zshall.github.io/program-guide)
+[Live Site](http://videotoaster.github.io/program-guide)
